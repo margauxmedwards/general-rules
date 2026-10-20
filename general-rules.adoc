@@ -39,11 +39,6 @@ guides the student team members. Junior Mentors are not team members and
 must not do the design, building or programming work for the team (see
 <<mentoring-and-onsite-assistance,Mentoring and Onsite Assistance>>).
 
-*Team Continuity*: Because a team is defined by its robot(s) and the
-students who built them, a team's entire membership may not be replaced
-while the robot(s) stay in competition. See
-<<team-continuity,Team Continuity>>.
-
 ==== Team Size
 *Minimum Team Size*: Teams must consist of at least 2 members.
 
