@@ -24,6 +24,26 @@ can also reach out to the RoboCupJunior community through the https://robocup-ju
 
 === Team Requirements
 
+[[team-definition]]
+==== Team Definition
+*Team*: A team is defined by its robot(s) and the student members who
+built and developed them. The team members are the students who carried
+out the work of designing, building and programming the robot(s) being
+entered.
+
+*Team Members*: Every team member must have a
+<<technical-roles,technical role>> in the work on the robot(s).
+
+*Junior Mentor*: A Junior Mentor is an adult supervisor who supports and
+guides the student team members. Junior Mentors are not team members and
+must not do the design, building or programming work for the team (see
+<<mentoring-and-onsite-assistance,Mentoring and Onsite Assistance>>).
+
+*Team Continuity*: Because a team is defined by its robot(s) and the
+students who built them, a team's entire membership may not be replaced
+while the robot(s) stay in competition. See
+<<team-continuity,Team Continuity>>.
+
 ==== Team Size
 *Minimum Team Size*: Teams must consist of at least 2 members.
 
@@ -42,7 +62,9 @@ shared between teams.
 competition (from a regional to a SuperRegional or International
 competition) must include at least one member of the qualifying team when competing
 at the next level. New members may be added, within the maximum team
-size, but the qualifying team may not be replaced. All members,
+size, but the qualifying team may not be replaced. A robot may not be
+entered by a different group of students than the team that built it.
+All members,
 including continuing and new members, must meet the
 <<technical-roles,Technical Roles>> requirement.
 
@@ -221,6 +243,7 @@ organizers of all Junior and Major Leagues as well as the host venue.
 ==== Code of Conduct
 All organisers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where, a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organisation member and will be investigated.
 
+[[mentoring-and-onsite-assistance]]
 ==== Mentoring and Onsite Assistance
 Support from other teams, mentors, teachers, parents, sponsors, internet
 communities etc. is a core part of how teams learn and grow.
