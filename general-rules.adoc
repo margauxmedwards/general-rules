@@ -32,7 +32,7 @@ out the work of designing, building and programming the robot(s) being
 entered.
 
 [[technical-roles]]*Technical Roles*: Every team member must have a defined technical
-role (mechanical/design, electrical/sensing, software etc.) and should
+role (mechanical/design, electrical/sensing, software etc.) and must
 be able to explain their role and their contributions to the robot(s)
 during technical judging. Non-technical
 roles, such as documentation, poster or graphic design, or presentation,
