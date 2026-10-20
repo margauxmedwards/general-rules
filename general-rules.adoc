@@ -31,8 +31,12 @@ built and developed them. The team members are the students who carried
 out the work of designing, building and programming the robot(s) being
 entered.
 
-*Team Members*: Every team member must have a
-<<technical-roles,technical role>> in the work on the robot(s).
+[[technical-roles]]*Technical Roles*: Every team member must have a defined technical
+role (mechanical/design, electrical/sensing, software etc.) and should
+be able to explain their role during technical judging. Non-technical
+roles, such as documentation, poster or graphic design, or presentation,
+may be shared by team members but do not on their own count as a
+technical role.
 
 *Junior Mentor*: A Junior Mentor is an adult supervisor who supports and
 guides the student team members. Junior Mentors are not team members and
@@ -85,13 +89,6 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 *Entry Leagues*: RoboCupJunior Entry leagues and other "Primary"
 divisions (where minimum age may vary) are not run at the international
 competition but feature in many regions and SuperRegional tournaments.
-
-[[technical-roles]]*Technical Roles*: Every team member must have a defined technical
-role (mechanical/design, electrical/sensing, software etc.) and should
-be able to explain their role during technical judging. Non-technical
-roles, such as documentation, poster or graphic design, or presentation,
-may be shared by team members but do not on their own count as a
-technical role.
 
 === International Team Qualification Process
 * To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
