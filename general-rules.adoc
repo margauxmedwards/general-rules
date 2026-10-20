@@ -85,11 +85,11 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 
 *Junior Mentors and Parent/Chaperones:* Must be 19 years or older as of July 1st of the competition year.
 
-==== Team Members
-
-*Entry Leagues*: RoboCupJunior Entry leagues and other "Primary"
-divisions (where minimum age may vary) are not run at the international
-competition but feature in many regions and SuperRegional tournaments.
+*Entry Leagues:* RoboCupJunior Entry leagues and other "Primary"
+divisions are not run at the International competition but feature in
+many Regional and SuperRegional competitions. Age requirements for
+these divisions may differ from the student age range above and are set
+by the organisers of each competition.
 
 === International Team Qualification Process
 * To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
