@@ -22,6 +22,27 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 For questions regarding any of the rules or RoboCupJunior in general, teams
 can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server].
 
+[[getting-started]]
+=== Getting Started
+Students, parents, teachers and mentors who are new to RoboCupJunior
+can follow the https://junior.robocup.org/gettingstarted/[Getting Started guides]
+on the Official Website, from building a first robot to entering a
+first competition. The guides are for information only. Where a guide
+differs from these rules, these rules apply.
+
+. *https://junior.robocup.org/robocup-beginners-guide/[Starting a Team]*:
+Form a team, choose a robot, keep costs down and find tutorials for
+your league.
+. *https://junior.robocup.org/qualification/[Qualification and Competitions]*:
+How the season works, how regions qualify teams, and how to enter
+events outside your region.
+. *https://junior.robocup.org/your-first-competition/[Your First Competition]*:
+What to expect at an event, what to pack, and how to handle things
+going wrong.
+. *https://junior.robocup.org/for-educators/[For Educators]*:
+Why robotics works in schools, and how to start a program with your
+students.
+
 === Team Requirements
 
 [[team-definition]]
