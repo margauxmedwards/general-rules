@@ -29,11 +29,6 @@ can follow the https://junior.robocup.org/gettingstarted/[Getting Started guides
 on the Official Website, from building a first robot to entering a
 first competition.
 
-The process for qualifying for the International competition is set
-out in the Qualification and Competitions guide, and is not part of
-these rules. Qualified teams must still meet every requirement in these
-rules, including <<team-continuity,Team Continuity>>.
-
 . *https://junior.robocup.org/robocup-beginners-guide/[Starting a Team]*:
 Form a team, choose a robot, keep costs down and find tutorials for
 your league.
