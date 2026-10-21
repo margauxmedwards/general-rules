@@ -30,7 +30,7 @@ on the Official Website, from building a first robot to entering a
 first competition.
 
 . *https://junior.robocup.org/robocup-beginners-guide/[Starting a Team]*:
-Form a team, choose a robot, keep costs down and find tutorials for
+Form a team, build a robot, keep costs down and find tutorials for
 your league.
 . *https://junior.robocup.org/qualification/[Qualification and Competitions]*:
 How the season works, how regions qualify teams, and how to enter
