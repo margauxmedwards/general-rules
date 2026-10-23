@@ -49,7 +49,8 @@ students.
 *Team*: A team is defined by its robot(s) and the student members who
 built and developed them. The team members are the students who carried
 out the work of designing, building and programming the robot(s) being
-entered.
+entered. Membership may change between competition levels in accordance
+with the <<team-continuity,Team Continuity>> rule.
 
 [[technical-roles]]*Technical Roles*: Every team member must have a defined technical
 role (mechanical/design, electrical/sensing, software etc.) and must
