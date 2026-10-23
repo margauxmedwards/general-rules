@@ -42,6 +42,9 @@ going wrong.
 Why robotics works in schools, and how to start a program with your
 students.
 
+International slot allocation to teams must strongly reflect results
+from Regional competitions.
+
 === Team Requirements
 
 [[team-definition]]
@@ -60,8 +63,8 @@ roles, such as documentation, poster or graphic design, or presentation,
 may be shared by team members but do not on their own count as a
 technical role.
 
-*Junior Mentor*: A Junior Mentor is an adult supervisor who supports and
-guides the student team members. Junior Mentors are not team members and
+*Junior Mentor*: A Junior Mentor is a supervisor who meets the
+<<age-requirements,Age Requirements>> and supports and guides the student team members. Junior Mentors are not team members and
 must not do the design, building or programming work for the team (see
 <<mentoring-and-onsite-assistance,Mentoring and Onsite Assistance>>).
 
@@ -74,7 +77,7 @@ must not do the design, building or programming work for the team (see
 
 * OnStage League: 5 members.
 
-Regional and SuperRegional competitions may define their own team sizes depending on their venue capacity and regional variations. Teams attending the International competition will only be able to have the maximum number of registered participants in the qualifying team.
+Regional and SuperRegional competitions may define their own team sizes depending on their venue capacity and regional variations. Teams attending the International competition must comply with the maximum team size for their league, regardless of their team size at the qualifying competition.
 
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
@@ -99,6 +102,7 @@ Any concerns regarding team member welfare should be brought to the attention of
 The Junior Mentor is expected to be present during all official competition events with their team.
 They must not interact in an imposing manner with teams, robots, judges, or the judging process. Any incident considered inappropriate will be handled by the event organizers and may lead to disciplinary actions.
 
+[[age-requirements]]
 ==== Age Requirements
 
 *Junior Student Members:* Must be between 14 and 19 years old as of July 1st of the competition year.
@@ -109,7 +113,7 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 divisions are not run at the International competition but feature in
 many Regional and SuperRegional competitions. Age requirements for
 these divisions may differ from the student age range above and are set
-by the organisers of each competition.
+by the organizers of each competition.
 
 === Robot Requirements
 
