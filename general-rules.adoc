@@ -42,9 +42,6 @@ going wrong.
 Why robotics works in schools, and how to start a program with your
 students.
 
-International slot allocation to teams must strongly reflect results
-from Regional competitions.
-
 === Team Requirements
 
 [[team-definition]]
