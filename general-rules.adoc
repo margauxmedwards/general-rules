@@ -22,6 +22,26 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 For questions regarding any of the rules or RoboCupJunior in general, teams
 can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server].
 
+[[getting-started]]
+=== Getting Started
+Students, parents, teachers and mentors who are new to RoboCupJunior
+can follow the https://junior.robocup.org/gettingstarted/[Getting Started guides]
+on the Official Website, from building a first robot to entering a
+first competition.
+
+. *https://junior.robocup.org/robocup-beginners-guide/[Starting a Team]*:
+Form a team, build a robot, keep costs down and find tutorials for
+your league.
+. *https://junior.robocup.org/qualification/[Qualification and Competitions]*:
+How the season works, how regions qualify teams, and how to enter
+events outside your region.
+. *https://junior.robocup.org/your-first-competition/[Your First Competition]*:
+What to expect at an event, what to pack, and how to handle things
+going wrong.
+. *https://junior.robocup.org/for-educators/[For Educators]*:
+Why robotics works in schools, and how to start a program with your
+students.
+
 === Team Requirements
 
 [[team-definition]]
@@ -29,7 +49,8 @@ can also reach out to the RoboCupJunior community through the https://robocup-ju
 *Team*: A team is defined by its robot(s) and the student members who
 built and developed them. The team members are the students who carried
 out the work of designing, building and programming the robot(s) being
-entered.
+entered. Membership may change between competition levels in accordance
+with the <<team-continuity,Team Continuity>> rule.
 
 [[technical-roles]]*Technical Roles*: Every team member must have a defined technical
 role (mechanical/design, electrical/sensing, software etc.) and must
@@ -39,8 +60,8 @@ roles, such as documentation, poster or graphic design, or presentation,
 may be shared by team members but do not on their own count as a
 technical role.
 
-*Junior Mentor*: A Junior Mentor is an adult supervisor who supports and
-guides the student team members. Junior Mentors are not team members and
+*Junior Mentor*: A Junior Mentor is a supervisor who meets the
+<<age-requirements,Age Requirements>> and supports and guides the student team members. Junior Mentors are not team members and
 must not do the design, building or programming work for the team (see
 <<mentoring-and-onsite-assistance,Mentoring and Onsite Assistance>>).
 
@@ -53,20 +74,19 @@ must not do the design, building or programming work for the team (see
 
 * OnStage League: 5 members.
 
-Regional and SuperRegional competitions may define their own team sizes depending on their venue capacity and regional variations. Teams attending the International competition will only be able to have the maximum number of registered participants in the qualifying team.
+Regional and SuperRegional competitions may define their own team sizes depending on their venue capacity and regional variations. Teams attending the International competition must comply with the maximum team size for their league, regardless of their team size at the qualifying competition.
 
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
 [[team-continuity]]*Team Continuity*: A team that qualifies for a higher level of
-competition (from a regional to a SuperRegional or International
-competition) must include at least one member of the qualifying team when competing
-at the next level. New members may be added, within the maximum team
-size, but the qualifying team may not be replaced. A robot may not be
-entered by a different group of students than the team that built it.
-All members,
-including continuing and new members, must meet the
-<<technical-roles,Technical Roles>> requirement.
+competition (from a Regional to a SuperRegional or International
+competition) must include at least one member of the qualifying team when
+competing at the next level. New members may be added within the maximum
+team size for the league. These membership changes do not prevent the
+team from entering its robot(s), but qualification and robot(s) may not
+be transferred to a separate team. All continuing and new members must
+meet the <<technical-roles,Technical Roles>> requirement.
 
 ==== Team Supervision
 *Junior Mentor Requirement*: Each Junior team must have at least
@@ -79,6 +99,7 @@ Any concerns regarding team member welfare should be brought to the attention of
 The Junior Mentor is expected to be present during all official competition events with their team.
 They must not interact in an imposing manner with teams, robots, judges, or the judging process. Any incident considered inappropriate will be handled by the event organizers and may lead to disciplinary actions.
 
+[[age-requirements]]
 ==== Age Requirements
 
 *Junior Student Members:* Must be between 14 and 19 years old as of July 1st of the competition year.
@@ -89,17 +110,7 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 divisions are not run at the International competition but feature in
 many Regional and SuperRegional competitions. Age requirements for
 these divisions may differ from the student age range above and are set
-by the organisers of each competition.
-
-=== International Team Qualification Process
-* To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
-* After the region’s local qualifying tournament, the Regional Representative
-will assign slots. Once confirmed by the RoboCupJunior organizers, the qualified teams will be invited to register through the official RoboCup Federation registration system.
-* The qualification process differs depending on the size of each region,
-but slot allocation must strongly reflect results from regional competitions.
-* Qualified teams must meet the <<team-continuity,Team Continuity>> requirement.
-* If a region does not use or releases its allocated slots, Regional Representatives
-may request additional slots during a later stage of the allocation process.
+by the organizers of each competition.
 
 === Robot Requirements
 
