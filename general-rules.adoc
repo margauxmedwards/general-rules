@@ -154,7 +154,7 @@ and evacuation procedures.
 *Robot Safety Design*:
 
 * *Power Management*: Batteries must be securely mounted, wiring must
-be safe, and every robot must have emergency stop functionality.
+be safe, and every robot must have an accessible way to cut power to immediately in emergency situations.
 
 * *Mechanical Safety*: Robots must not have sharp edges, pinch points,
 or other hazards. Actuators must be appropriate for the robot’s size
