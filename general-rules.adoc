@@ -24,6 +24,26 @@ can also reach out to the RoboCupJunior community through the https://robocup-ju
 
 === Team Requirements
 
+[[team-definition]]
+==== Team Definition
+*Team*: A team is defined by its robot(s) and the student members who
+built and developed them. The team members are the students who carried
+out the work of designing, building and programming the robot(s) being
+entered.
+
+[[technical-roles]]*Technical Roles*: Every team member must have a defined technical
+role (mechanical/design, electrical/sensing, software etc.) and must
+be able to explain their role and their contributions to the robot(s)
+during technical judging. Non-technical
+roles, such as documentation, poster or graphic design, or presentation,
+may be shared by team members but do not on their own count as a
+technical role.
+
+*Junior Mentor*: A Junior Mentor is an adult supervisor who supports and
+guides the student team members. Junior Mentors are not team members and
+must not do the design, building or programming work for the team (see
+<<mentoring-and-onsite-assistance,Mentoring and Onsite Assistance>>).
+
 ==== Team Size
 *Minimum Team Size*: Teams must consist of at least 2 members.
 
@@ -37,6 +57,16 @@ Regional and SuperRegional competitions may define their own team sizes dependin
 
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
+
+[[team-continuity]]*Team Continuity*: A team that qualifies for a higher level of
+competition (from a regional to a SuperRegional or International
+competition) must include at least one member of the qualifying team when competing
+at the next level. New members may be added, within the maximum team
+size, but the qualifying team may not be replaced. A robot may not be
+entered by a different group of students than the team that built it.
+All members,
+including continuing and new members, must meet the
+<<technical-roles,Technical Roles>> requirement.
 
 ==== Team Supervision
 *Junior Mentor Requirement*: Each Junior team must have at least
@@ -55,15 +85,11 @@ They must not interact in an imposing manner with teams, robots, judges, or the 
 
 *Junior Mentors and Parent/Chaperones:* Must be 19 years or older as of July 1st of the competition year.
 
-==== Team Members
-
-*Entry Leagues*: RoboCupJunior Entry leagues and other "Primary"
-divisions (where minimum age may vary) are not run at the international
-competition but feature in many regions and SuperRegional tournaments.
-
-*Technical Roles*: Every team member must have a defined technical
-role (mechanical/design, electrical/sensing, software etc.) and should
-be able to explain their role during technical judging.
+*Entry Leagues:* RoboCupJunior Entry leagues and other "Primary"
+divisions are not run at the International competition but feature in
+many Regional and SuperRegional competitions. Age requirements for
+these divisions may differ from the student age range above and are set
+by the organisers of each competition.
 
 === International Team Qualification Process
 * To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
@@ -71,6 +97,7 @@ be able to explain their role during technical judging.
 will assign slots. Once confirmed by the RoboCupJunior organizers, the qualified teams will be invited to register through the official RoboCup Federation registration system.
 * The qualification process differs depending on the size of each region,
 but slot allocation must strongly reflect results from regional competitions.
+* Qualified teams must meet the <<team-continuity,Team Continuity>> requirement.
 * If a region does not use or releases its allocated slots, Regional Representatives
 may request additional slots during a later stage of the allocation process.
 
@@ -209,6 +236,7 @@ organizers of all Junior and Major Leagues as well as the host venue.
 ==== Code of Conduct
 All organisers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where, a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organisation member and will be investigated.
 
+[[mentoring-and-onsite-assistance]]
 ==== Mentoring and Onsite Assistance
 Support from other teams, mentors, teachers, parents, sponsors, internet
 communities etc. is a core part of how teams learn and grow.
