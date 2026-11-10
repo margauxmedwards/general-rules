@@ -97,7 +97,8 @@ Mentors and Parent/Chaperones are responsible for supervising their teams
 and maintain a duty of care/well being for their team members, as appropriate for their home region's regulations.
 Any concerns regarding team member welfare should be brought to the attention of the event organizers immediately.
 
-The Junior Mentor must be present at the venue during all official competition events, but may not enter the competition areas during rounds and interviews.
+The Junior Mentor must attend the event with their team and remain reachable by the team and the event organizers throughout the competition.
+Unless the event organizers decide otherwise, Junior Mentors and Parent/Chaperones may not enter the competition areas during rounds and interviews.
 They must not interact in an imposing manner with teams, robots, judges, or the judging process. Any incident considered inappropriate will be handled by the event organizers and may lead to disciplinary actions.
 
 [[age-requirements]]
@@ -264,10 +265,10 @@ do it.
 
 ==== Teams Onsite
 * During the competition, only the official team members
-can represent the team at registration, setup-day, and have access to the competition areas for rounds and interviews.
+can represent the team at registration, setup-day, and in the competition areas for rounds and interviews.
 * There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one team member is present at the venue without such evidence will be able to compete, but will not be eligible for finals or awards.
 * It is the teams' responsibility to ensure that team members are present at the correct time and location for all scheduled activities.
-* Teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance during the competition. Virtually communicating includes but is not limited to phone calls, video calls, remote desktop control etc.
+* During the competition, teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance. Virtually communicating includes but is not limited to phone calls, video calls, messaging, remote desktop control etc.
 * Any team found to be in breach of these rules may be subject to disciplinary action.
 * Teams are recommended to seek help from other teams, or organizers if they are struggling with any issues onsite.
 
