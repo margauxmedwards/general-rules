@@ -250,7 +250,8 @@ especially but not only towards other participants, volunteers, referees and
 organizers of all Junior and Major Leagues as well as the host venue.
 
 ==== Code of Conduct
-All organizers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organization member and will be investigated.
+All organizers, volunteers, team members, mentors, supporters and visitors must abide by the https://robocup.org/conduct[RoboCup Code of Ethics and Conduct].
+Any situation that does not meet the Code must be reported as set out in the Code, which gives the formal reporting address (mailto:conduct@robocup.org[conduct@robocup.org]) and what to do at the event, including in an emergency.
 
 [[mentoring-and-onsite-assistance]]
 ==== Mentoring and Onsite Assistance
